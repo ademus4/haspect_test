@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+root --hssel --hsfinal=THS2pi Control_process.C --proof=2
