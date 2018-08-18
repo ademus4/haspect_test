@@ -33,6 +33,7 @@
 
 # data files
 *.root
+*.pcm
 
 # emacs related
 *~
